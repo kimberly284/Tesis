@@ -90,7 +90,7 @@ Modulo de buscar paciente
 
 ## Construido con 🛠️
 
-_Menciona las herramientas que utilizaste para crear tu proyecto_
+
 
 * [PHP](https://www.php.net/manual/es/index.php) 
 * [Bootstrap](https://getbootstrap.com/) 
@@ -100,7 +100,6 @@ _Menciona las herramientas que utilizaste para crear tu proyecto_
 
 ## Autores ✒️
 
-_Menciona a todos aquellos que ayudaron a levantar el proyecto desde sus inicios_
 
 * **KIMBERLY MARROQUIN ** 
 
