@@ -7,7 +7,7 @@ Proyecto de Gestion Hospitalaria
 ## Comenzando 🚀
 Instrucciones de ejecucion en ordenadores con sistema Operativo windows 
 
-_Estas instrucciones describen como  obtener una copia del proyecto para instalar un abiente y verificar su funcionamiento de una forma local, asi como su demo de prueba 
+_Estas instrucciones describen como  obtener una copia del proyecto para instalar un ambiente y verificar su funcionamiento de una forma local, asi como su demo de prueba 
 
 
 ### Pre-requisitos 📋
@@ -29,6 +29,9 @@ Ingresar al link colocado anteriormente y desacargar el instador del servidor Xa
 Al tener el instalador ejecutarlo como administrador, seguidamente se le notifica que se debe desactivar los permisos de UAC, lo podemos encontrar en el buscador de Windows como control de cuentas de usuario  
 
 luego mostrá un lista de lo que desea instalar, seleccionas los que desees y presionar next 
+
+![Aquí la descripción de la imagen por si no carga](https://github.com/kimberly284/Tesis/blob/main/aplicacion%20medica/capturas/Captura.PNG)
+
 
 _Y repite_
 
@@ -62,6 +65,7 @@ Se debe cambiar el contenido de las variables por los datos que usaremos en nues
 
 Para ejecutar el proyecto de manera local, no dirigimos al navegar e ingresamos la direccion 
 http://localhost/aca el nombre de la carpeta que gaurdamos en htdocs
+pero andes de utilizar se debe de inicializar los servicios  dentro del  panel de contro de xamp que se puede encotrar dentro de la carpeta de xamp en el disco c 
 
 ### Interfaces del proyecto ⌨️
 
