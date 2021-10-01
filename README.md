@@ -71,12 +71,17 @@ Se debe cambiar el contenido de las variables por los datos que usaremos en nues
 
 
 
-Para ejecutar el proyecto de manera local, no dirigimos al navegar e ingresamos la direccion 
-http://localhost/aca el nombre de la carpeta que gaurdamos en htdocs
-pero andes de utilizar se debe de inicializar los servicios  dentro del  panel de contro de xamp que se puede encotrar dentro de la carpeta de xamp en el disco c
+inicializar los servicios  dentro del  panel de contro de xamp que se puede encotrar dentro de la carpeta de xamp en el disco c
 
 
 ![referenia](https://github.com/kimberly284/Tesis/blob/main/aplicacion%20medica/capturas/Captura%203.PNG)
+
+Para ejecutar el proyecto de manera local, no dirigimos al navegar e ingresamos la direccion 
+http://localhost/aca el nombre de la carpeta que guardamos en htdocs
+
+
+
+
 
 ### Interfaces del proyecto ⌨️
 
@@ -90,15 +95,26 @@ pagina principal login
 
 Pagina de opciones de habitaciones y pacientes 
 ![referenia](https://github.com/kimberly284/Tesis/blob/main/aplicacion%20medica/capturas/Captura%207.PNG)
+
+
+
 Modulo de Habitacion. 
 ![referenia](https://github.com/kimberly284/Tesis/blob/main/aplicacion%20medica/capturas/Captura%208.PNG)
 
 Modulo de Agregar Paciente
 
 ![referenia](https://github.com/kimberly284/Tesis/blob/main/aplicacion%20medica/capturas/Captura9.PNG)
+
+
 Modulo  listado de paciente con acciones de editar e eliminar. 
+
+
+
 ![referenia](https://github.com/kimberly284/Tesis/blob/main/aplicacion%20medica/capturas/Captura%2010.PNG)
-Modulo de buscar paciente  
+
+
+Modulo de buscar paciente 
+
 
 
 ![referenia](https://github.com/kimberly284/Tesis/blob/main/aplicacion%20medica/capturas/Captura%2011.PNG)
