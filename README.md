@@ -14,7 +14,9 @@ _Estas instrucciones describen como  obtener una copia del proyecto para instala
 
 servidor se recomienda Xamp
 en el siguiente link se encuentra la descarga del instalador: 
-https://drive.google.com/drive/folders/13ASx96iXfIGqVWLqkZ7gorg_XeeZvHLw?usp=sharing
+
+
+(https://drive.google.com/drive/folders/13ASx96iXfIGqVWLqkZ7gorg_XeeZvHLw?usp=sharing)
 
  Editor de codigo, recomiendo Visual Studio code o Sublimetext 
 
@@ -30,7 +32,8 @@ Al tener el instalador ejecutarlo como administrador, seguidamente se le notific
 
 luego mostrá un lista de lo que desea instalar, seleccionas los que desees y presionar next 
 
-(https://github.com/kimberly284/Tesis/blob/main/aplicacion%20medica/capturas/Captura.PNG)
+
+![referenia](https://github.com/kimberly284/Tesis/blob/main/aplicacion%20medica/capturas/Captura.PNG)
 
 
 _Y repite_
@@ -45,12 +48,12 @@ hasta finalizar
 _Luego de terminar de la instalacion de xamp nos dirigimos al disco local de nuestra maquina, encontraremos un carpeta llamada xamp o segun el nombre colocado al momento de instalar, dentro de ella encontraremos una carpeta llamada Htdocs, ahi será donde iran los archivos de nuestro proyecto._
 _creamos una carpeta descomprimimos el repositorio descargado.
 encontras las siguientes carpetas.
-(https://github.com/kimberly284/Tesis/blob/main/aplicacion%20medica/capturas/Captura.PNG)
+![referenia](https://github.com/kimberly284/Tesis/blob/main/aplicacion%20medica/capturas/Captura.PNG)
 
 
 dentro de la caperta aplicacion hay un archivo con formato sql 
 esa es la base de datos a importar en nuestro phpmyadmin 
-(https://github.com/kimberly284/Tesis/blob/main/aplicacion%20medica/capturas/Captura%204.PNG)
+![referenia](https://github.com/kimberly284/Tesis/blob/main/aplicacion%20medica/capturas/Captura%204.PNG)
 
 
 dentro de la misma carpeta nos dirigimos a la carpeta form / admin 
@@ -64,7 +67,7 @@ Se debe cambiar el contenido de las variables por los datos que usaremos en nues
    - nombre de la base de datos
 
 
-(https://github.com/kimberly284/Tesis/blob/main/aplicacion%20medica/capturas/Captura%205.PNG)
+![referenia](https://github.com/kimberly284/Tesis/blob/main/aplicacion%20medica/capturas/Captura%205.PNG)
 
 
 
@@ -73,12 +76,12 @@ http://localhost/aca el nombre de la carpeta que gaurdamos en htdocs
 pero andes de utilizar se debe de inicializar los servicios  dentro del  panel de contro de xamp que se puede encotrar dentro de la carpeta de xamp en el disco c
 
 
-(https://github.com/kimberly284/Tesis/blob/main/aplicacion%20medica/capturas/Captura%203.PNG)
+![referenia](https://github.com/kimberly284/Tesis/blob/main/aplicacion%20medica/capturas/Captura%203.PNG)
 
 ### Interfaces del proyecto ⌨️
 
 pagina principal login 
-(https://github.com/kimberly284/Tesis/blob/main/aplicacion%20medica/capturas/Captura6.PNG)
+![referenia](https://github.com/kimberly284/Tesis/blob/main/aplicacion%20medica/capturas/Captura6.PNG)
 
 - Ingresar con 
 - Usuario: admin
@@ -86,19 +89,19 @@ pagina principal login
 
 
 Pagina de opciones de habitaciones y pacientes 
-(https://github.com/kimberly284/Tesis/blob/main/aplicacion%20medica/capturas/Captura%207.PNG)
+![referenia](https://github.com/kimberly284/Tesis/blob/main/aplicacion%20medica/capturas/Captura%207.PNG)
 Modulo de Habitacion. 
-(https://github.com/kimberly284/Tesis/blob/main/aplicacion%20medica/capturas/Captura%208.PNG)
+![referenia](https://github.com/kimberly284/Tesis/blob/main/aplicacion%20medica/capturas/Captura%208.PNG)
 
 Modulo de Agregar Paciente
 
-(https://github.com/kimberly284/Tesis/blob/main/aplicacion%20medica/capturas/Captura9.PNG)
+![referenia](https://github.com/kimberly284/Tesis/blob/main/aplicacion%20medica/capturas/Captura9.PNG)
 Modulo  listado de paciente con acciones de editar e eliminar. 
-(https://github.com/kimberly284/Tesis/blob/main/aplicacion%20medica/capturas/Captura%2010.PNG)
+![referenia](https://github.com/kimberly284/Tesis/blob/main/aplicacion%20medica/capturas/Captura%2010.PNG)
 Modulo de buscar paciente  
 
 
-(https://github.com/kimberly284/Tesis/blob/main/aplicacion%20medica/capturas/Captura%2011.PNG)
+![referenia](https://github.com/kimberly284/Tesis/blob/main/aplicacion%20medica/capturas/Captura%2011.PNG)
 
 ## Construido con 🛠️
 
