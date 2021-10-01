@@ -48,7 +48,7 @@ hasta finalizar
 _Luego de terminar de la instalacion de xamp nos dirigimos al disco local de nuestra maquina, encontraremos un carpeta llamada xamp o segun el nombre colocado al momento de instalar, dentro de ella encontraremos una carpeta llamada Htdocs, ahi será donde iran los archivos de nuestro proyecto._
 _creamos una carpeta descomprimimos el repositorio descargado.
 encontras las siguientes carpetas.
-![referenia](https://github.com/kimberly284/Tesis/blob/main/aplicacion%20medica/capturas/Captura.PNG)
+![referenia](https://github.com/kimberly284/Tesis/blob/main/aplicacion%20medica/capturas/Captura2.PNG)
 
 
 dentro de la caperta aplicacion hay un archivo con formato sql 
