@@ -14,8 +14,7 @@ _Estas instrucciones describen como  obtener una copia del proyecto para instala
 
 servidor se recomienda Xamp
 en el siguiente link se encuentra la descarga del instalador: 
-
-https://drive.google.com/drive/folders/1y0kWzYpDrUh-S4ho22y0OSfP4pv297Yk?usp=sharing
+https://drive.google.com/drive/folders/13ASx96iXfIGqVWLqkZ7gorg_XeeZvHLw?usp=sharing
 
  Editor de codigo, recomiendo Visual Studio code o Sublimetext 
 
