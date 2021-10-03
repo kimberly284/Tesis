@@ -1,0 +1,210 @@
+
+<!DOCTYPE html>
+
+<a href="index.php">
+
+<span class="icon"> 
+<span style="font-size: 25px;"><i class="fas fa-search"></i></span>
+<html lang="en" class="no-js">
+	<head>
+BUSCAR PERFIL DE PACIENTE
+		<meta charset="UTF-8" />
+		<meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1"> 
+		<meta name="viewport" content="width=device-width, initial-scale=1.0"> 
+		<title>Aplicacion Médica</title>
+		<meta name="description" content="MULTIMEDICA" />
+	
+	
+		<link rel="shortcut icon" href="../favicon.ico"> 
+		<link rel="stylesheet" type="text/css" href="css/default.css" />
+		<link rel="stylesheet" type="text/css" href="css/component.css" />
+		<script src="js/modernizr.custom.js"></script>
+
+		<script src="https://kit.fontawesome.com/8bc55b9ae6.js" crossorigin="anonymous"></script>
+	
+	</head>
+	<body>
+
+
+
+		<div class="container">	
+			<!-- Codrops top bar -->
+			
+			<header>
+				<div >
+					<a href="../php/salir.php" class="btn btn-info"><h1>Cerrar Sesion</h1></a>
+						
+					</div>
+				<img src="imagenes/icono.png" style="width:20%;">
+				<h1>MULTIMEDICA <span>Centro medico</span></h1>	
+		
+
+			</header>
+
+			
+
+
+			<div class="main clearfix">
+				
+				<nav id="menu" class="nav">					
+					<ul>
+						<li>
+							<a href="form/admin/h1.php">
+								<span class="icon">
+									<span style="font-size: 25px;"><i class="fas fa-procedures"></i></span>
+								
+							
+								</span>
+							</br>
+							<b>Habitacion 1</b>
+							</a>
+						</li>
+
+					
+						<li>
+							<a href="form/admin/h2.php">
+								<span class="icon"> 
+									<span style="font-size: 25px;"><i class="fas fa-capsules"></i></span>
+								</br>
+							
+								<b>Habitacion 2</b>
+							
+								</span>
+							
+							</a>
+						</li>
+						<li>
+							<a href="form/admin/h3.php">
+								<span class="icon">
+									<span style="font-size: 25px;"><i class="fas fa-band-aid"></i></span>
+								</span>
+							</br>
+							<b>Habitacion 3</b>
+							</a>
+						</li>
+						<li>
+							<a href="form/admin/h4.php">
+								<span class="icon">
+									<span style="font-size: 25px;"><i class="fas fa-notes-medical"></i></span>
+
+
+									
+								</span>
+							</br>
+							<b>Habitacion 4</b>
+							</a>
+						</li>
+						<li>
+							<a href="form/admin/h5.php">
+								<span class="icon">
+									<span style="font-size: 25px;"><i class="fas fa-file-medical-alt"></i></span>
+								</span>
+							</br>
+							<b>Habitacion 5</b>
+							</a>
+						</li>
+						<li>
+							<a href="form/admin/h6.php">
+
+								<span class="icon">
+									<span style="font-size: 25px;"><i class="fas fa-ambulance"></i></span>
+								</span>
+							</br>
+								<b>Habitacion 6</b>
+								
+							</a>
+
+							
+						</li>
+	
+
+
+						<li>
+							<a href="form/admin/mostrar-paciente.php">
+
+
+							
+
+								<span class="icon">
+								
+									<span style="font-size: 25px;"><i class="fas fa-user-injured"></i></span>
+
+								</span>
+							</br>
+								<b>Pacientes</b>
+								
+							</a>
+
+							
+						</li>
+					
+
+
+
+
+
+
+
+
+
+
+
+
+					</ul>
+								
+			
+
+				</nav>
+	
+				</div>
+			
+
+		</div><!-- /container -->
+
+
+
+
+
+
+
+
+
+
+		
+
+		
+		<script>
+			//  The function to change the class
+			var changeClass = function (r,className1,className2) {
+				var regex = new RegExp("(?:^|\\s+)" + className1 + "(?:\\s+|$)");
+				if( regex.test(r.className) ) {
+					r.className = r.className.replace(regex,' '+className2+' ');
+			    }
+			    else{
+					r.className = r.className.replace(new RegExp("(?:^|\\s+)" + className2 + "(?:\\s+|$)"),' '+className1+' ');
+			    }
+			    return r.className;
+			};	
+
+			//  Creating our button in JS for smaller screens
+			var menuElements = document.getElementById('menu');
+			menuElements.insertAdjacentHTML('afterBegin','<button type="button" id="menutoggle" class="navtoogle" aria-hidden="true"><i aria-hidden="true" class="icon-menu"> </i> Menu</button>');
+
+			//  Toggle the class on click to show / hide the menu
+			document.getElementById('menutoggle').onclick = function() {
+				changeClass(this, 'navtoogle active', 'navtoogle');
+			}
+
+			// http://tympanus.net/codrops/2013/05/08/responsive-retina-ready-menu/comment-page-2/#comment-438918
+			document.onclick = function(e) {
+				var mobileButton = document.getElementById('menutoggle'),
+					buttonStyle =  mobileButton.currentStyle ? mobileButton.currentStyle.display : getComputedStyle(mobileButton, null).display;
+
+				if(buttonStyle === 'block' && e.target !== mobileButton && new RegExp(' ' + 'active' + ' ').test(' ' + mobileButton.className + ' ')) {
+					changeClass(mobileButton, 'navtoogle active', 'navtoogle');
+				}
+			}
+		</script>
+		
+	</body>
+</html>
