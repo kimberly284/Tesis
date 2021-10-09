@@ -20,7 +20,7 @@ _Estas instrucciones describen como  obtener una copia del proyecto para instala
 ### Pre-requisitos 📋
 
 servidor se recomienda Xamp
-en el siguiente link se encuentra la descarga del instalador: 
+En el siguiente link se encuentra la descarga del instalador: 
 
 
 (https://drive.google.com/drive/folders/13ASx96iXfIGqVWLqkZ7gorg_XeeZvHLw?usp=sharing)
@@ -38,6 +38,7 @@ Ingresar al link colocado anteriormente y desacargar el instador del servidor Xa
 Al tener el instalador ejecutarlo como administrador, seguidamente se le notifica que se debe desactivar los permisos de UAC, lo podemos encontrar en el buscador de Windows como control de cuentas de usuario  
 
 luego mostrá un lista de lo que desea instalar, seleccionas los que desees y presionar next 
+a continuacion se muestra el listado
 
 
 ![referenia](https://github.com/kimberly284/Tesis/blob/main/aplicacion%20medica/capturas/Captura.PNG)
