@@ -2,7 +2,14 @@
 Proyecto de Graduacion
 Facultad de Ingenieria en Sistemas 
 
-Proyecto de Gestion Hospitalaria 
+## Proyecto de Gestion Hospitalaria 
+
+## Demo de Prueba 
+
+https://clinicaproyectoumg.000webhostapp.com/login/
+
+usuario: admin
+contraseña: admin
 
 ## Comenzando 🚀
 Instrucciones de ejecucion en ordenadores con sistema Operativo windows 
@@ -20,7 +27,7 @@ en el siguiente link se encuentra la descarga del instalador:
 
  Editor de codigo, recomiendo Visual Studio code o Sublimetext 
 
-conocimeintos basicos en php (si se desea modificar) 
+conocimientos basicos en php (si se desea modificar) 
 
 
 
